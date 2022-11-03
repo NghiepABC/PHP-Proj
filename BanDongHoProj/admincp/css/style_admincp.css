@@ -4,8 +4,11 @@ ul.admincp_list{
     list-style: none;
 }
 ul.admincp_list li{
-    float: left;
+    font-size: 22px;
     margin: 5px;
+}
+ul.admincp_list li a{
+    text-decoration: none;
 }
 .clear{
     clear: both;

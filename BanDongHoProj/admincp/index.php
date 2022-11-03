@@ -15,13 +15,13 @@
     <title>AdminCp</title>
 </head>
 <body>
-    <h3 class="admincp_tile">Welcome to AdminCP Page</h3>
+    <h3 class="admincp_tile">Admin Page</h3>
     <div class="wrapper">
     <?php
         include("config/connect.php");
-        include("modules/header.php");
-        include("modules/menu.php");
         include("modules/main.php");
+        include("modules/menu.php");
+        include("modules/header.php");
         include("modules/footer.php");
         ?>
     </div>

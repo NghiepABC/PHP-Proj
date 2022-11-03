@@ -41,11 +41,7 @@
        
 
     }
-    
-    
-    
-    
-    
+       
     elseif(isset($_POST['suasanpham'])){
         if($hinhanh!=''){
             move_uploaded_file($hinhanh_tmp,'uploads/'.$hinhanh);

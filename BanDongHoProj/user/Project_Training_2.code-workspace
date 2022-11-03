@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/Nghiep Dep Trai/OneDrive/Máy tính/ToPracTice/Project_Training_2"
+		},
+		{
+			"path": "../../../firstPHP"
+		},
+		{
+			"path": "C:/Users/Nghiep Dep Trai/OneDrive/Máy tính/ToPracTice/Advanced-Def"
+		},
+		{
+			"path": "C:/Users/Nghiep Dep Trai/OneDrive/Máy tính/ToPracTice/FirstReact"
+		},
+		{
+			"path": "C:/Users/Nghiep Dep Trai/OneDrive/Máy tính/ToPracTice/react_learning"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "Project_Training_2"
+	}
+}

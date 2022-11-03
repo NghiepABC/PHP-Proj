@@ -1,5 +1,3 @@
-
-
 <ul class="admincp_list">
     
     <li><a href="index.php?action=quanlysanpham&query=them">Quản lý sản phẩm </a></li>
